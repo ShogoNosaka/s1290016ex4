@@ -25,6 +25,12 @@ class coin {
         
   }
   System.out.println("Heads:"+h+",Tails:"+t);
+  if(h>t){
+    System.out.println(str+" won!");
+  }
+  else{
+    System.out.println(str+" lost!");
+  }
 
 
 }

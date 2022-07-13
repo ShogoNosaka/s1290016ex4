@@ -31,6 +31,7 @@ class coin {
   else{
     System.out.println(str+" lost!");
   }
+
   
 
 
